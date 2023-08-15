@@ -1,0 +1,15 @@
+[[project]]
+name = "Dotfiles on Arch"
+desc = "my i3 + neovim + tmux + alacritty dev setup which i previously used."
+links = [
+  { name = "GitHub", icons = "github", url = "https://github.com/turmaxx/.dotfiles" },
+  # { name = "Showcase", icons = "github", url = "" },
+]
+
+[[project]]
+name = "Nix System Configuration"
+desc = "My NixOS System configuration written in Nix obviously"
+links = [
+  { name = "GitHub", icons = "github", url = "https://github.com/turmaxx/nixos-config" },
+  # { name = "Showcase", icons = "github", url = "" },
+]
