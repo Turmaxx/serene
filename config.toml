@@ -38,6 +38,7 @@ links = [                                                                       
     { name = "GitHub", icon = "github", url = "https://github.com/turmaxx" },
     { name = "Twitter", icon = "twitter", url = "https://twitter.com/bk_solo" },
     { name = "Email", icon = "email", url = "mailto:brooksolo@protonmail.com" },
+    { name = "Homepage", icon = "link", url = "https://brook-s-homepage.web.app" },
 ]
 
 nav_separator = "::"
