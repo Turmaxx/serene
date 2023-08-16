@@ -1,4 +1,4 @@
-base_url = "https://serene.turmaxx.me"                                                   # Domain name of your website
+base_url = "https://zenserene.netlify.app"                                               # Domain name of your website (https://serene.turmaxx.me),
 title = "Brook Seyoum"
 description = "Brook's blog site"
 default_language = "en"
