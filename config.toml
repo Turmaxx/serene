@@ -1,6 +1,6 @@
 base_url = "https://zenserene.netlify.app"                                               # Domain name of your website (https://serene.turmaxx.me),
 title = "Brook Seyoum"
-description = "Brook's blog site"
+description = "Brook's zenserene site"
 default_language = "en"
 theme = "serene"
 output_dir = "public"
