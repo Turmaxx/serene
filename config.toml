@@ -31,7 +31,7 @@ anchors = "on"
 [extra]
 
 name = "Brook Seyoum"                                                                    # Your name
-id = "inframan"                                                                          # Your id / username / handle
+id = "bk_solo"                                                                           # Your id / username / handle
 bio = "Fan of functional programming, Linux and Distrubuted Systems"                     # Your bio
 avatar = "img/avatar.webp"                                                               # Your avatar
 links = [                                                                                # Your links
