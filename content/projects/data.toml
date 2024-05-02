@@ -1,6 +1,6 @@
 [[project]]
-name = "Dotfiles on Arch"
-desc = "my i3 + neovim + tmux + alacritty dev setup which i previously used."
+name = "Dotfiles on Kubuntu"
+desc = "my plasma + neovim + tmux + alacritty dev setup which i previously used."
 links = [
   { name = "GitHub", icons = "github", url = "https://github.com/turmaxx/.dotfiles" },
   # { name = "Showcase", icons = "github", url = "" },
