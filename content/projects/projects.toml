@@ -1,0 +1,51 @@
+# [[project]]
+# name = "Dotfiles on Kubuntu"
+# desc = "my plasma + neovim + tmux + alacritty dev setup which i previously used."
+# links = [
+#   { name = "GitHub", icons = "github", url = "https://github.com/turmaxx/.dotfiles" },
+#   # { name = "Showcase", icons = "github", url = "" },
+# ]
+
+# [[project]]
+# name = "Nix System Configuration"
+# desc = "My NixOS System configuration written in Nix obviously"
+# links = [
+#   { name = "GitHub", icons = "github", url = "https://github.com/turmaxx/nixos-config" },
+#   # { name = "Showcase", icons = "github", url = "" },
+# ]
+
+
+[[collection]]
+type = "card"
+title = "Dotfiles on Kubuntu"
+link = "https://github.com/turmaxx/.dotfiles"
+content = "my plasma + neovim + tmux + alacritty dev setyp which I previously used."
+tags = ["dotfiles", "linux"]
+
+[[collection]]
+type = "card"
+title = "Nix System Configuration"
+link = "https://github.com/turmaxx/nixos-config"
+content = "My NixOS System Configuration written in Nix obviously"
+tags = ["infastructure as code", "nix", "linux"]
+
+[[collection]]
+type = "card"
+title = "Tokio"
+link = "https://example.com"
+content = "Tokio is an asynchronous runtime for the Rust programming language. It provides the building blocks needed for writing network applications. It gives the flexibility to target a wide range of systems, from large servers with dozens of cores to small embedded devices."
+tags = ["rust", "async", "runtime"]
+
+[[collection]]
+type = "card"
+title = "Kubernetes"
+link = "https://example.com"
+content = "Kubernetes, also known as K8s, is an open source system for managing containerized applications across multiple hosts. It provides basic mechanisms for the deployment, maintenance, and scaling of applications."
+tags = ["k8s", "golang"]
+
+[[collection]]
+type = "card"
+title = "Next.js"
+link = "https://example.com"
+content = "Next.js is a React framework for building full-stack web applications. You use React Components to build user interfaces, and Next.js for additional features and optimizations."
+tags = ["typescript", "react", "frontend"]
