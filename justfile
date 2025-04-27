@@ -12,7 +12,8 @@ check:
 
 # clone submodule theme
 clone-submodule:
-	git clone --recurse-submodules git@github.com:Turmaxx/serene.git
+    git clone --recurse-submodules git@github.com:Turmaxx/serene.git
+
 # update submodule theme
 update-submodule:
-	git submodule foreach git pull
+    git submodule foreach git pull
