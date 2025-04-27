@@ -7,8 +7,8 @@ draft = false
 insert_anchor_links = "right"
 
 [taxonomies]
-categories = ["one"]
-tags = ["one", "two", "three"]
+categories = ["editor"]
+tags = ["vim", "linux" ]
 
 [extra]
 lang = "en"

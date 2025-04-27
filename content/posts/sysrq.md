@@ -7,7 +7,7 @@ updated = 2025-01-01
 draft = false
 
 [taxonomies]
-categories = ["Website"]
+categories = ["website"]
 tags = ["linux", "tool", "tutorial" ]
 
 [extra]
